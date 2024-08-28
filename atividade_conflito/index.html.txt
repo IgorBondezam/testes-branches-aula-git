@@ -1,0 +1,1 @@
+Esse arquivo será adicionado com conflito e será resolvido adicionando os dois valores
